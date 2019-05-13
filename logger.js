@@ -5,7 +5,6 @@
         //send HTTp request
         console.log('Bonjour MR :' + message);
     }
-
     module.exports = log;
 
 
